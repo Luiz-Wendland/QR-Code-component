@@ -23,8 +23,8 @@ Essa é uma solução para o [QR code component challenge no Frontend Mentor](ht
 
 ### Links
 
-- Link da minha solução: [Add solution URL here](https://your-solution-url.com)
-- Link do site ativo: [Add live site URL here](https://your-live-site-url.com)
+- Link do código: [Meu código](https://github.com/Luiz-Wendland/QR-Code-component/blob/main/index.html)
+- Link do site ativo: [Meu site](https://your-live-site-url.com)
 
 ## Meu processo
 
