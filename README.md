@@ -23,6 +23,7 @@ Se você está procurando uma maneira de aprimorar suas habilidades de programa�
 
 ### Links
 
+- Link da minha solução no Frontend Mentor: [Minha solução](https://www.frontendmentor.io/solutions/qr-code-component-GrNrBhqSoc)
 - Link do código: [Meu código](https://github.com/Luiz-Wendland/QR-Code-component/blob/main/index.html)
 - Link do site ativo: [Meu site](https://beamish-bavarois-c57c7f.netlify.app/)
 
