@@ -47,5 +47,4 @@ Não teve muita novidade pra mim, mas acredito que finalmente vou aprender melho
 
 ## Autor
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
+- Frontend Mentor - [@Luiz-Wendland](https://www.frontendmentor.io/profile/Luiz-Wendland)
