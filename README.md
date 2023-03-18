@@ -37,7 +37,7 @@ Essa é uma solução para o [QR code component challenge no Frontend Mentor](ht
 
 ### O que eu aprendi
 
-Não teve muita novidade pra mim, mas acredito que finalmente vou aprender melhor como ir usando flexbox e essas outras coisas me dedicando a praticar bastante isso:
+Embora eu já conhecesse boa parte do conteúdo do desafio, estou aproveitando para praticar e consolidar meus conhecimentos em Flexbox e técnicas de layout responsivo. 
 
 ```css
 .gostei-muito-de-usar-isso {
