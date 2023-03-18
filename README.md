@@ -5,7 +5,7 @@ Essa é uma solução para o [QR code component challenge no Frontend Mentor](ht
 ## Conteúdo
 
 - [Visão geral](#visão-geral)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [Meu processo](#meu-processo)
   - [Feito com](#Feito-com)
@@ -15,7 +15,7 @@ Essa é uma solução para o [QR code component challenge no Frontend Mentor](ht
 
 ## Visão geral
 
-### Screenshot
+### Screenshots
 
 ![](/design%20meu/desktop%20design.png)
 
