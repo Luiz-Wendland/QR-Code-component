@@ -24,7 +24,7 @@ Essa é uma solução para o [QR code component challenge no Frontend Mentor](ht
 ### Links
 
 - Link do código: [Meu código](https://github.com/Luiz-Wendland/QR-Code-component/blob/main/index.html)
-- Link do site ativo: [Meu site](https://your-live-site-url.com)
+- Link do site ativo: [Meu site](https://beamish-bavarois-c57c7f.netlify.app/)
 
 ## Meu processo
 
